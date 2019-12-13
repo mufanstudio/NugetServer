@@ -3,11 +3,9 @@
 You can use this project to publish your own nuget package
 
 ### Install
----
 .NET Framework3.5.2 Runtime required
 
-### Usage
----
+### Use
 ##### Upload Packages
 
 Upload and copy package file to **/Packages** directory
