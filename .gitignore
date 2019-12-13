@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/src/NuGetServer/bin
+/src/NuGetServer/obj
+/src/.vs/NuGetServer
